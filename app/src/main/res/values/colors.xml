@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#0D47A1</color>
+    <color name="colorPrimaryDark">#002171</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="seat_available">#E0E0E0</color>
+    <color name="seat_selected">#2E7D32</color>
+    <color name="seat_booked">#C62828</color>
+</resources>
